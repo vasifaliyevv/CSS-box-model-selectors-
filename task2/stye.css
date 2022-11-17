@@ -1,0 +1,49 @@
+/* .class1.class2{
+    color: red;
+} */
+/* p.intro{
+    color:green;
+} */
+/* div,span{
+    color :aqua;
+} */
+/* div>p{
+    color: blue;
+} */
+/* h1+p{
+    color:blueviolet;
+} */
+/* img{
+    width: 400px;
+    height: 300px;
+}
+[title~=cars]{
+    border: 5px solid green;
+} */
+/* div[class$="example"]{
+    background: grey;
+} */
+/* a:active{
+background-color: green;
+} */
+/* input:checked {
+    height: 50px;
+    width: 50px;
+  } */
+
+  /* input:disabled{
+    color : brown;
+  } */
+  /* h3:first-child{
+    background-color: green;
+  } */
+  /* a:hover{
+    background-color: blue;
+  } */
+  /* a:visited{
+    color: crimson;
+  } */
+  /* p:last-child{
+    color :rgb(243, 1, 1);
+    background-color: black;
+  } */
